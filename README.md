@@ -16,7 +16,6 @@ Welcome to the **Lucia Training Platform**! This repository serves as the centra
 
 - [LTP Megatron-LM](https://github.com/microsoft/ltp-megatron-lm)
 - [LTP Recipe Images](https://github.com/microsoft/ltp-recipe-images)
-- [LTP Sigma-V2](https://github.com/microsoft/Sigma-V2)
 
 ## 🛠️ Maintainers
 This repository is maintained by:
